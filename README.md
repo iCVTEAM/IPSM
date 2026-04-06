@@ -24,7 +24,7 @@ Download [StableDiffusion-v1.5](https://huggingface.co/runwayml/stable-diffusion
 
 ### LLFF
 
-1. Download LLFF from [the official download link](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1).
+1. Download LLFF from [the official download link](https://drive.google.com/file/d/11PhkBXZZNYTD2emdG1awALlhCnkq7aN-/view?usp=drive_link).
 
 2. Run COLMAP to obtain initial point clouds with sparse views:
 
@@ -57,7 +57,7 @@ Download [StableDiffusion-v1.5](https://huggingface.co/runwayml/stable-diffusion
 1. Download DTU dataset
 
    - Download the DTU dataset "Rectified (123 GB)" from the [official website](https://roboimagedata.compute.dtu.dk/?page_id=36/), and extract it.
-   - Download masks (used for evaluation only) from [this link](https://drive.google.com/file/d/1Yt5T3LJ9DZDiHbtd9PDFNHqJAd7wt-_E/view?usp=sharing).
+   - Download masks (used for evaluation only) from [this link](https://drive.google.com/drive/folders/1OEmJcbP0XUVfG647mdYWxEy9yOw7L_Si?usp=drive_link) (backed up from RegNeRF).
 
 2. Preprocess following [DNGaussian](https://github.com/Fictionarry/DNGaussian)
 
